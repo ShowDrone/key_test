@@ -1,0 +1,3 @@
+/home/usrc/test/key_test/build/CMakeFiles/rebuild_cache.dir
+/home/usrc/test/key_test/build/CMakeFiles/key_test.dir
+/home/usrc/test/key_test/build/CMakeFiles/edit_cache.dir
